@@ -1,0 +1,7 @@
+{
+    "require": {
+        "sofort/sofortlib-php": "^3.3",
+        "stripe/stripe-php": "^7.3",
+        "setasign/fpdf": "^1.8"
+    }
+}
